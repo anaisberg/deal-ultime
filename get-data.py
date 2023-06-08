@@ -22,11 +22,12 @@ with webdriver.Chrome(options=options) as driver:
     # items = driver.find_elements(By.CLASS_NAME, "a-list-item")
 
     items = driver.find_elements(By.CSS_SELECTOR, 'div[role="listitem"]')
+    allDeals = []
     for item in items:
         names = item.find_elements(By.TAG_NAME, "span")
-        print(names[3].text)
-        promo = names[8].text
-        print(promo)
+        restaurant = names[3].text
+        deal = names[8].text
         address = item.find_element(By.TAG_NAME, "p")
-        print(address.text)
+        allDeals.append([restaurant, deal, address])
+        
     

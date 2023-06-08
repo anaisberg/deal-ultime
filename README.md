@@ -10,3 +10,5 @@ For the code to work, you will need:
 - and the [driver for Chrome](https://sites.google.com/chromium.org/driver/downloads)
 
 Make sure to match the browser and driver versions, Chrome 96, as of this writing.
+
+Credits: I used [this article](https://dev.to/anderrv/intro-to-web-scraping-with-selenium-in-python-4011) to help me get started.
