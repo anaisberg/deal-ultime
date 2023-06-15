@@ -1,0 +1,6 @@
+{
+  "ignore": [".env"],
+  "reportMissingImports": false,
+  "reportMissingTypeStubs": false,
+  "pythonVersion": "3.6"
+}

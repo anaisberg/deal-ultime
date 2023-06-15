@@ -1,5 +1,5 @@
 from flask_cors import CORS
-from getData import get_data
+from src.getData import get_data
 from flask import Flask, jsonify
 
 app = Flask(__name__)
@@ -15,4 +15,4 @@ def displaylocations():
     return jsonify(deals)
 
 if __name__ == '__main__':
-    app.run(host = 'localhost', debug = True, port = 4000)
+    app.run(debug = True)

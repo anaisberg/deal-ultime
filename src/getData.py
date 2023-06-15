@@ -29,7 +29,20 @@ def get_data():
             names = item.find_elements(By.TAG_NAME, "span")
             restaurant = names[3].text
             deal = names[8].text
+            print(names)
             address = item.find_element(By.TAG_NAME, "p").text
-            allDeals.append([restaurant, deal, address])
+            
+            dealDetails = {
+                "deal": deal,
+                "restaurant": restaurant,
+                "address":address,
+                "latitude": 0,
+                "longitude": 0,
+            }
+            allDeals.append(dealDetails)
             
     return allDeals
+
+
+if __name__ == '__main__':
+    get_data()
