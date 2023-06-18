@@ -1,6 +1,7 @@
 import React from "react";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import { Map, GoogleApiWrapper, Marker } from "google-maps-react";
+import { getCoordinates } from "./getCoordinates";
 
 const mapStyles = {
   width: "100%",
@@ -8,20 +9,30 @@ const mapStyles = {
 };
 
 const App = (props) => {
-  //   const [deals, setDeals] = useState([]);
+  const [deals, setDeals] = useState([]);
   //   const currentUrl = window.location.href;
   //   const endpoint = `${currentUrl}getlocations`;
   useEffect(() => {
-    fetch("http://localhost:5000/getlocations", {
-      methods: "GET",
-      headers: {
-        "Content-Type": "application/json",
-      },
-    }).then((response) => {
-      console.log(response.body);
-      // initMap(response.body);
-    });
+    fetch("http://localhost:3000/getlocations", {
+      method: "GET",
+      crossorigin: true,
+    })
+      .then((response) => response.json())
+      .then((data) => {
+        console.log(data);
+        setDeals(data);
+      });
   }, []);
+
+  useEffect(() => {
+    deals.map(async (deal) => {
+      const coordinates = await getCoordinates(deal.address);
+      return {
+        ...deal,
+        coordinates,
+      };
+    });
+  }, [deals]);
 
   return (
     <div>

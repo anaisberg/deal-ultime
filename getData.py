@@ -11,8 +11,8 @@ def get_data():
     with webdriver.Chrome(options=options) as driver:
         driver.get(url)
 
-        print(driver.current_url) # https://www.zenrows.com/
-        print(driver.title) #
+        print(driver.current_url) 
+        print(driver.title) 
 
         # find element by id
         # driver.find_element(By.ID, "twotabsearchtextbox")
@@ -22,14 +22,15 @@ def get_data():
 
         # find elements by class name
         # items = driver.find_elements(By.CLASS_NAME, "a-list-item")
+    
 
         items = driver.find_elements(By.CSS_SELECTOR, 'div[role="listitem"]')
-        
         for item in items:
             names = item.find_elements(By.TAG_NAME, "span")
             restaurant = names[3].text
             deal = names[8].text
-            print(names)
+            for name in names:
+                print(name.text) 
             address = item.find_element(By.TAG_NAME, "p").text
             
             dealDetails = {
