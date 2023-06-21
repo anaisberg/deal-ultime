@@ -12,27 +12,36 @@ const App = (props) => {
   const [deals, setDeals] = useState([]);
   //   const currentUrl = window.location.href;
   //   const endpoint = `${currentUrl}getlocations`;
-  useEffect(() => {
-    fetch("http://localhost:3000/getlocations", {
-      method: "GET",
-      crossorigin: true,
-    })
-      .then((response) => response.json())
-      .then((data) => {
-        console.log(data);
-        setDeals(data);
-      });
-  }, []);
 
   useEffect(() => {
-    deals.map(async (deal) => {
-      const coordinates = await getCoordinates(deal.address);
-      return {
-        ...deal,
-        coordinates,
-      };
-    });
-  }, [deals]);
+    const fetchDealsData = async () => {
+      if (process.env.REACT_APP_ENV === "development") {
+        const updatedDeals = await updateDeals();
+        setDeals(updatedDeals);
+      } else setDeals();
+    };
+    fetchDealsData();
+  }, []);
+
+  const updateDeals = async () => {
+    const updatedDeals = await fetch("http://localhost:3000/getlocations", {
+      method: "GET",
+      crossorigin: true,
+    }).then((response) => response.json());
+
+    const updatedDealsWithCoordinates = Promise.all(
+      updatedDeals.map(async (deal) => {
+        const coordinates = await getCoordinates(deal.address);
+        return {
+          ...deal,
+          coordinates,
+        };
+      })
+    );
+    setDeals(updatedDealsWithCoordinates);
+  };
+
+  console.log(deals);
 
   return (
     <div>
