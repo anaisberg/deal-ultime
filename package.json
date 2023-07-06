@@ -6,7 +6,8 @@
   "devDependencies": {
     "gh-pages": "^2.0.1",
     "prettier": "^1.17.1",
-    "react-scripts": "^5.0.1"
+    "react-scripts": "^5.0.1",
+    "@babel/plugin-proposal-private-property-in-object": "^7.14.5"
   },
   "dependencies": {
     "babel-loader": "^9.1.2",
