@@ -2,6 +2,7 @@ import React from "react";
 import { useEffect, useState } from "react";
 import { Map, GoogleApiWrapper, Marker } from "google-maps-react";
 import { getCoordinates } from "./getCoordinates";
+import data from "./assets/data.json";
 
 const mapStyles = {
   width: "100%",
@@ -10,15 +11,12 @@ const mapStyles = {
 
 const App = (props) => {
   const [deals, setDeals] = useState([]);
-  //   const currentUrl = window.location.href;
-  //   const endpoint = `${currentUrl}getlocations`;
 
   useEffect(() => {
     const fetchDealsData = async () => {
       if (process.env.REACT_APP_ENV === "development") {
-        const updatedDeals = await updateDeals();
-        setDeals(updatedDeals);
-      } else setDeals();
+        await updateDeals();
+      } else setDeals(data);
     };
     fetchDealsData();
   }, []);
@@ -41,17 +39,17 @@ const App = (props) => {
     setDeals(updatedDealsWithCoordinates);
   };
 
-  console.log(deals);
-
   return (
     <div>
       <Map
         google={props.google}
-        zoom={10}
+        zoom={13}
         style={mapStyles}
-        initialCenter={{ lat: 48.864716, lng: 2.349014 }}
+        initialCenter={{ lat: 48.864716, lng: 2.344024 }}
       >
-        <Marker position={{ lat: 48.0, lng: -122.0 }} />
+        {deals.map((deal, index) => (
+          <Marker key={index} position={{ lat: deal.coordinates.lat, lng: deal.coordinates.lng }} />
+        ))}
       </Map>
     </div>
   );
