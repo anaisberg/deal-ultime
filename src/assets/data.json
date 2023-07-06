@@ -1,0 +1,1058 @@
+[
+  {
+    "address": "Paris, France",
+    "deal": "3 empanadas à -50%",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Clasico argentino",
+    "coordinates": {
+      "lat": 48.856614,
+      "lng": 2.3522219
+    }
+  },
+  {
+    "address": "6 Pass. des Panoramas, 75002 Paris",
+    "deal": "-50% sur un sandwich au choix",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Asado",
+    "coordinates": {
+      "lat": 48.8713088,
+      "lng": 2.341885
+    }
+  },
+  {
+    "address": "12 rue de Port-Mahon 75002 Paris",
+    "deal": "-50% sur tous les plats",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Kamakiri udon",
+    "coordinates": {
+      "lat": 48.8697761,
+      "lng": 2.3341211
+    }
+  },
+  {
+    "address": "18 Rue Meynadier, 75019 Paris, France",
+    "deal": "-50% sur un plat de Momo au choix",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Hello momo",
+    "coordinates": {
+      "lat": 48.88386329999999,
+      "lng": 2.3840882
+    }
+  },
+  {
+    "address": "40, rue des moines 75017 PARIS",
+    "deal": "👉 -50% sur le bento veggie\n⚠️ Uniquement à emporter",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Sando & curry",
+    "coordinates": {
+      "lat": 48.8892543,
+      "lng": 2.3199418
+    }
+  },
+  {
+    "address": "27 rue Vignon, 75008 PARIS",
+    "deal": "-50% sur le menu classique en taille \"entier\"",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Le Kimbap",
+    "coordinates": {
+      "lat": 48.8719636,
+      "lng": 2.3262092
+    }
+  },
+  {
+    "address": "6 Rue La Boétie, 75008 Paris, France",
+    "deal": "-50% sur tous les sandwichs",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "B.B.T Paris 8",
+    "coordinates": {
+      "lat": 48.8744892,
+      "lng": 2.3184323
+    }
+  },
+  {
+    "address": "41 Rue des Pirogues de Bercy, 75012 Bercy Village - Paris, Paris, France",
+    "deal": "-50% sur tous les cocktails et toutes les bières.",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Le 3Bis",
+    "coordinates": {
+      "lat": 48.8331996,
+      "lng": 2.3872956
+    }
+  },
+  {
+    "address": "35 Place Saint-Ferdinand, 75017 Paris, France",
+    "deal": "1 viennoiserie achetée, 1 viennoiserie offerte !",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "The French Bastards Paris 17",
+    "coordinates": {
+      "lat": 48.8777322,
+      "lng": 2.2878541
+    }
+  },
+  {
+    "address": "41 Rue de France, 77300 Fontainebleau, France",
+    "deal": "Une pâtisserie achetée une offerte",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "L'A patisserie",
+    "coordinates": {
+      "lat": 48.4048962,
+      "lng": 2.6972858
+    }
+  },
+  {
+    "address": "25 Rue Descartes, 75005 Paris, France",
+    "deal": "-50% sur une pâtisserie à emporter. les duo ont la même chose que les solo",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Kawakami pâtisserie",
+    "coordinates": {
+      "lat": 48.8460389,
+      "lng": 2.3493453
+    }
+  },
+  {
+    "address": "30 Rue Vignon, 75009 Paris",
+    "deal": "-50% sur la formule découverte",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Aji family",
+    "coordinates": {
+      "lat": 48.8719866,
+      "lng": 2.3266323
+    }
+  },
+  {
+    "address": "8 Rue La Boétie, 75008 Paris",
+    "deal": "1 brioche achetée = 1 brioche offerte",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Bar à brioche",
+    "coordinates": {
+      "lat": 48.8744074,
+      "lng": 2.3181752
+    }
+  },
+  {
+    "address": "25 Rue Villiot, 75012 Paris, France",
+    "deal": "-50% sur ton 1er verre!",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Social Bar",
+    "coordinates": {
+      "lat": 48.8417528,
+      "lng": 2.3753605
+    }
+  },
+  {
+    "address": "28 Rue Saint-Ambroise, 75011 Paris, France",
+    "deal": "1 Bowl acheté = 1 offert!",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Açai and You - Paris 11",
+    "coordinates": {
+      "lat": 48.8628256,
+      "lng": 2.3790619
+    }
+  },
+  {
+    "address": "224 Rue Saint-Denis, 75002 Paris, France",
+    "deal": "1 Punch acheté = 1 offert",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Player One",
+    "coordinates": {
+      "lat": 48.8683075,
+      "lng": 2.3520897
+    }
+  },
+  {
+    "address": "88 Rue Oberkampf, 75011 Paris, France",
+    "deal": "-50% sur ton menu",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Binks",
+    "coordinates": {
+      "lat": 48.8653446,
+      "lng": 2.3769202
+    }
+  },
+  {
+    "address": "19 Rue de l'Aqueduc, 75010 Paris, France",
+    "deal": "2 onigiris à -50%",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Samourice",
+    "coordinates": {
+      "lat": 48.8804858,
+      "lng": 2.3596878
+    }
+  },
+  {
+    "address": "79 Rue Blanche, 75009 Paris, France",
+    "deal": "-50% sur ton Fricasse + boisson",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Torkia",
+    "coordinates": {
+      "lat": 48.8832456,
+      "lng": 2.3320837
+    }
+  },
+  {
+    "address": "24 Rue du Faubourg Montmartre, 75009 Paris, France",
+    "deal": "Ton plat à -50% à emporter",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "La Pépite",
+    "coordinates": {
+      "lat": 48.8734699,
+      "lng": 2.3431954
+    }
+  },
+  {
+    "address": "50 Rue Saint-Georges, 75009 Paris, France",
+    "deal": "Ta formule \"Vadrouilleur\" à -50%",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Vadrouille",
+    "coordinates": {
+      "lat": 48.8774199,
+      "lng": 2.3374765
+    }
+  },
+  {
+    "address": "82 Ave Parmentier, 75011 Paris, France",
+    "deal": "-50% sur la Formule Poutine!",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "La Maison de la Poutine",
+    "coordinates": {
+      "lat": 48.8646032,
+      "lng": 2.3753347
+    }
+  },
+  {
+    "address": "61 Rue Charlot, 75003 Paris, France",
+    "deal": "Gâteau + Boisson maison à -50%",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Maison Plume",
+    "coordinates": {
+      "lat": 48.8637272,
+      "lng": 2.3634854
+    }
+  },
+  {
+    "address": "13 Rue Troyon, 75017 Paris, France",
+    "deal": "Ton Omurice à -50%",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Omurice",
+    "coordinates": {
+      "lat": 48.8762054,
+      "lng": 2.2950148
+    }
+  },
+  {
+    "address": "4 Rue Mouffetard, 75005 Paris, France",
+    "deal": "1 focaccia à moitié prix",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Toscanino",
+    "coordinates": {
+      "lat": 48.8448337,
+      "lng": 2.3490736
+    }
+  },
+  {
+    "address": "18 Rue des Ecouffes, 75004 Paris, France",
+    "deal": "Alfi n°1 à -50%",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Alfi",
+    "coordinates": {
+      "lat": 48.8569677,
+      "lng": 2.3589191
+    }
+  },
+  {
+    "address": "14 Rue Mandar, 75002 Paris, France",
+    "deal": "1 couscous acheté = 1 offert",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Mama Nissa",
+    "coordinates": {
+      "lat": 48.8658227,
+      "lng": 2.3453006
+    }
+  },
+  {
+    "address": "168 Bd du Montparnasse, 75014 Paris, France",
+    "deal": "10€ les 2 parties (au lieu de 20€)",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Laser World - Paris",
+    "coordinates": {
+      "lat": 48.8397521,
+      "lng": 2.3355285
+    }
+  },
+  {
+    "address": "214 Rue Saint-Martin, 75003 Paris, France",
+    "deal": "La formule à 11,5€ passe à 7€",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Qasti",
+    "coordinates": {
+      "lat": 48.86374379999999,
+      "lng": 2.3529202
+    }
+  },
+  {
+    "address": "54 Rue du Faubourg du Temple, 75011 Paris, France",
+    "deal": "Un burger acheté = Lolipop corn ou Dynamite chicken offert",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Gomu - Paris 11",
+    "coordinates": {
+      "lat": 48.8696812,
+      "lng": 2.3705225
+    }
+  },
+  {
+    "address": "4 Ave Parmentier, 75011 Paris, France",
+    "deal": "1 menu acheté = 5 wings offerts !",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Chiv's Koy",
+    "coordinates": {
+      "lat": 48.85898599999999,
+      "lng": 2.3799018
+    }
+  },
+  {
+    "address": "Marché Beauvau, Pl. d'Aligre, 75012 Paris, France",
+    "deal": "-50% sur ta Pâtisserie !",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Sweet Romance",
+    "coordinates": {
+      "lat": 48.8491053,
+      "lng": 2.3778158
+    }
+  },
+  {
+    "address": "35 rue Bergère 75009 Paris",
+    "deal": "-50% sur un Sanguche",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "APU",
+    "coordinates": {
+      "lat": 48.8725191,
+      "lng": 2.3435956
+    }
+  },
+  {
+    "address": "5 rue René Boulanger, 75010 Paris",
+    "deal": "-50% sur un Flat Bread au Choix",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Flat bread",
+    "coordinates": {
+      "lat": 48.8690305,
+      "lng": 2.3582656
+    }
+  },
+  {
+    "address": "25 Rue Louis Blanc, 75010 Paris",
+    "deal": "- 50% sur toutes la carte dans la limite d'un repas par personne",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Round",
+    "coordinates": {
+      "lat": 48.8800714,
+      "lng": 2.3666351
+    }
+  },
+  {
+    "address": "94 Boulevard Poniatowski, 75012 Paris, France",
+    "deal": "-50% sur un l’article à 5€ ou 18€",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Untucked friperie",
+    "coordinates": {
+      "lat": 48.83401370000001,
+      "lng": 2.4044779
+    }
+  },
+  {
+    "address": "8 rue St Bernard 75011 PARIS",
+    "deal": "1 planche achetée = 2 cocktails offerts UNIQUEMENT LE SOIR",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Les Bariolés de Maud - Paris 11",
+    "coordinates": {
+      "lat": 48.8509951,
+      "lng": 2.3816425
+    }
+  },
+  {
+    "address": "61 Rue Ramey, 75018 Paris, France",
+    "deal": "-50% sur ta formule !",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Gemüse",
+    "coordinates": {
+      "lat": 48.8905003,
+      "lng": 2.3453455
+    }
+  },
+  {
+    "address": "24 Rue des Epinettes, 75017 Paris, France",
+    "deal": "1 dessert acheté = 1 dessert offert",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Lily store paris",
+    "coordinates": {
+      "lat": 48.8951685,
+      "lng": 2.3226558
+    }
+  },
+  {
+    "address": "181 Rue Saint-Denis, 75002 Paris, France",
+    "deal": "1 viennoiserie achetée, 1 viennoiserie offerte !",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "The French Bastards Paris 2",
+    "coordinates": {
+      "lat": 48.8658047,
+      "lng": 2.3505619
+    }
+  },
+  {
+    "address": "100 Rue du Château, 75014 Paris, France",
+    "deal": "-50% sur ton menu Burger + Frites",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Avec Amour - Paris 14",
+    "coordinates": {
+      "lat": 48.8358079,
+      "lng": 2.3191525
+    }
+  },
+  {
+    "address": "9 Pass. des Patriarches, 75005 Paris, France",
+    "deal": "Ton entrée+boisson x2 (pass duo utilisable comme un pass solo)",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Extra life café",
+    "coordinates": {
+      "lat": 48.8409775,
+      "lng": 2.3501786
+    }
+  },
+  {
+    "address": "33 Rue Vivienne, 75002 Paris, France",
+    "deal": "-50% sur ton plat chaud à emporter",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Yoummah",
+    "coordinates": {
+      "lat": 48.87006030000001,
+      "lng": 2.3406063
+    }
+  },
+  {
+    "address": "116 Rue Amelot, 75011 Paris, France",
+    "deal": "-50% sur ton menu",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Raad four",
+    "coordinates": {
+      "lat": 48.8637459,
+      "lng": 2.367265
+    }
+  },
+  {
+    "address": "46 Rue Oberkampf, 75011 Paris\n91 Rue de Belleville, 75019 Paris",
+    "deal": "Un plateau pour 2 à -50%. la semaine only",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "L'artisan libanais",
+    "coordinates": {
+      "lat": 48.8645821,
+      "lng": 2.3724616
+    }
+  },
+  {
+    "address": "47 Rue Dauphine, 75006 Paris, France",
+    "deal": "1 Bowl acheté = 1 offert!",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Açai and You - Paris 6",
+    "coordinates": {
+      "lat": 48.8542317,
+      "lng": 2.3390384
+    }
+  },
+  {
+    "address": "48 Rue Jean-Pierre Timbaud, 75011 Paris, France",
+    "deal": "-50% sur ton Casse dalle + frites",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Lyoom",
+    "coordinates": {
+      "lat": 48.866338,
+      "lng": 2.3726084
+    }
+  },
+  {
+    "address": "42 Rue du Caire, 75002 Paris, France",
+    "deal": "-50% sur une sélection d'articles",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Sapeur Vintage",
+    "coordinates": {
+      "lat": 48.8680286,
+      "lng": 2.3492794
+    }
+  },
+  {
+    "address": "71 Rue d'Aboukir, 75002 Paris",
+    "deal": "Ta 1ère pinte ✨gratuite✨",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "LBF",
+    "coordinates": {
+      "lat": 48.8677965,
+      "lng": 2.3467919
+    }
+  },
+  {
+    "address": "115 Rue du Chemin Vert, 75011 Paris, France",
+    "deal": "-50% sur le Classique Poulet",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "La Maison du Daya",
+    "coordinates": {
+      "lat": 48.8616258,
+      "lng": 2.3823809
+    }
+  },
+  {
+    "address": "43 Av. de Suffren, 75007 Paris, France",
+    "deal": "-50% sur 1h de Bulles",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Bulles à Flotter",
+    "coordinates": {
+      "lat": 48.8540208,
+      "lng": 2.2967725
+    }
+  },
+  {
+    "address": "95 Rue du Bac, 75007 Paris, France",
+    "deal": "-50% sur ta pâtisserie!",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Oh Oui !",
+    "coordinates": {
+      "lat": 48.8535412,
+      "lng": 2.3239181
+    }
+  },
+  {
+    "address": "19 Rue Notre Dame de Lorette, 75009 Paris, France",
+    "deal": "-50% sur une Arepas au choix",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Aji Dulce",
+    "coordinates": {
+      "lat": 48.8778285,
+      "lng": 2.3378835
+    }
+  },
+  {
+    "address": "92 Rue Saint-Maur, 75011 Paris, France",
+    "deal": "Ton Bento à -50%",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Gangnam Falafel",
+    "coordinates": {
+      "lat": 48.8651801,
+      "lng": 2.3778053
+    }
+  },
+  {
+    "address": "131 Rue Saint-Martin, 75004 Paris, France",
+    "deal": "Ta glace à -50%",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Louise Glaces",
+    "coordinates": {
+      "lat": 48.8611055,
+      "lng": 2.3511659
+    }
+  },
+  {
+    "address": "6 Rue Lucien Sampaix, 75010 Paris, France",
+    "deal": "-50% sur ta boisson personnalisée",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Tea Space",
+    "coordinates": {
+      "lat": 48.8709589,
+      "lng": 2.3601189
+    }
+  },
+  {
+    "address": "40 Rue Réaumur, 75003 Paris, France",
+    "deal": "1 BBT acheté = 1 wheel cake offert !",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Atelier 2D",
+    "coordinates": {
+      "lat": 48.8654149,
+      "lng": 2.3573882
+    }
+  },
+  {
+    "address": "40 Rue de Ponthieu, 75008 Paris, France",
+    "deal": "-50% sur le Pita Burrata",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Mamé Kitchen",
+    "coordinates": {
+      "lat": 48.8713725,
+      "lng": 2.3077842
+    }
+  },
+  {
+    "address": "70 Rue Alexandre Dumas, 75011 Paris, France",
+    "deal": "3 tenders offerts pour un menu acheté",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Wings and Chill",
+    "coordinates": {
+      "lat": 48.8541035,
+      "lng": 2.3954419
+    }
+  },
+  {
+    "address": "164 Rue St Charles, 75015 Paris, France",
+    "deal": "-50% sur 3 Pastéis de nata au choix",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Casa de Nata",
+    "coordinates": {
+      "lat": 48.8417968,
+      "lng": 2.2811586
+    }
+  },
+  {
+    "address": "48 Rue des Cloys, 75018 Paris, France",
+    "deal": "1 brunch acheté = 1 brunch à -50%",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Dessertissime",
+    "coordinates": {
+      "lat": 48.8932867,
+      "lng": 2.3374576
+    }
+  },
+  {
+    "address": "47 Rue des Moines, 75017 Paris, France",
+    "deal": "-50% sur le Hulou Taiwanais et le Curry Poulet",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Yansaï Asian Food",
+    "coordinates": {
+      "lat": 48.8900229,
+      "lng": 2.3203436
+    }
+  },
+  {
+    "address": "16 Rue Saint-Augustin, 75002 Paris, France",
+    "deal": "-50% sur un produit sur toute la carte",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Wow Tea",
+    "coordinates": {
+      "lat": 48.8690001,
+      "lng": 2.3361959
+    }
+  },
+  {
+    "address": "35 Rue Violet, 75015 Paris, France",
+    "deal": "-50% sur ta viennoiserie!",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Panade",
+    "coordinates": {
+      "lat": 48.8478692,
+      "lng": 2.2934688
+    }
+  },
+  {
+    "address": "4 rue Popincourt, 75011 Paris",
+    "deal": "1 cocktail acheté = 1 offert",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Déja bu",
+    "coordinates": {
+      "lat": 48.8570241,
+      "lng": 2.3778922
+    }
+  },
+  {
+    "address": "7 Rue Tiquetonne, Paris, France",
+    "deal": "-50% sur le Burger BBC & Burger Rasta Rocket",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Big Black Cook",
+    "coordinates": {
+      "lat": 48.8643303,
+      "lng": 2.3495864
+    }
+  },
+  {
+    "address": "10 rue vavin 75006 Paris",
+    "deal": "-50% sur le vrac, les sachets best sellers, les bonbonnes best sellers ou une sélection de produits de l’épicerie au choix",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Qk confiserie",
+    "coordinates": {
+      "lat": 48.8444656,
+      "lng": 2.3312679
+    }
+  },
+  {
+    "address": "41 rue Sainte-Anne, 75001 paris",
+    "deal": "-50% sur toutes les consommations",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Kokekokko",
+    "coordinates": {
+      "lat": 48.8665316,
+      "lng": 2.3355828
+    }
+  },
+  {
+    "address": "113 Rue de Sèvres 75006 Paris",
+    "deal": "-50% sur tous les bowls signature",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Pokeso",
+    "coordinates": {
+      "lat": 48.847997,
+      "lng": 2.319969
+    }
+  },
+  {
+    "address": "31 Rue de Châteaudun, 75009 Paris",
+    "deal": "-50% sur tous les sandwichs",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "B.B.T Paris 9",
+    "coordinates": {
+      "lat": 48.8759673,
+      "lng": 2.3369181
+    }
+  },
+  {
+    "address": "58 Rue des Bergers, 75015 Paris, France",
+    "deal": "-50% sur Tous les sandwiches et tous les gratins",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Midi midi",
+    "coordinates": {
+      "lat": 48.84234559999999,
+      "lng": 2.2804859
+    }
+  },
+  {
+    "address": "61 Rue Oberkampf, 75011 Paris, France",
+    "deal": "1 viennoiserie achetée, 1 viennoiserie offerte !",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "The French Bastards Paris 11",
+    "coordinates": {
+      "lat": 48.8648495,
+      "lng": 2.3727426
+    }
+  },
+  {
+    "address": "34 Rue Notre Dame de Nazareth, 75003 Paris, France",
+    "deal": "2 articles à -50% sur tous ceux à moins de 25€",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Compil Store",
+    "coordinates": {
+      "lat": 48.8674246,
+      "lng": 2.3591268
+    }
+  },
+  {
+    "address": "13 Rue Chappe, 75018 Paris, France",
+    "deal": "Le cordon bleu à -50%",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Amone",
+    "coordinates": {
+      "lat": 48.8847046,
+      "lng": 2.3416643
+    }
+  },
+  {
+    "address": "15 Avenue Trudaine, 75009 Paris, France",
+    "deal": "Une acheté une offerte",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Léonie bakery",
+    "coordinates": {
+      "lat": 48.8814857,
+      "lng": 2.3449491
+    }
+  },
+  {
+    "address": "49 Rue d'Enghien, 75010 Paris, France",
+    "deal": "-50% sur n'importe quelle Poutine à emporter",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "La poutinerie",
+    "coordinates": {
+      "lat": 48.8723637,
+      "lng": 2.3482352
+    }
+  },
+  {
+    "address": "78 Rue de Belleville, 75020 Paris, France",
+    "deal": "-50% sur ton menu Burger + Frites",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Avec Amour - Paris 20",
+    "coordinates": {
+      "lat": 48.873489,
+      "lng": 2.3841907
+    }
+  },
+  {
+    "address": "11 Rue Lalande, 75014 Paris, France",
+    "deal": "1 Bowl acheté = 1 offert!",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Açai and You - Paris 14",
+    "coordinates": {
+      "lat": 48.8345818,
+      "lng": 2.3287443
+    }
+  },
+  {
+    "address": "41 Rue Jean-Pierre Timbaud, 75011 Paris, France",
+    "deal": "-50% La torta Cochinita au porc\nOu -50% La torta Végétarienne du moment",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Chulita",
+    "coordinates": {
+      "lat": 48.86663730000001,
+      "lng": 2.3730217
+    }
+  },
+  {
+    "address": "15 Rue Chapon, 75003 Paris, France",
+    "deal": "-50% sur ta boisson!",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Yumtcha",
+    "coordinates": {
+      "lat": 48.8632502,
+      "lng": 2.3562675
+    }
+  },
+  {
+    "address": "7 Rue du Grand Prieuré, 75011 Paris, France",
+    "deal": "Ton menu Bao à -50%",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Rain Bao",
+    "coordinates": {
+      "lat": 48.8649571,
+      "lng": 2.3689772
+    }
+  },
+  {
+    "address": "58 Rue du Faubourg Montmartre, 75009 Paris, France",
+    "deal": "Cake ou Cookie acheté : le même offert!",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Lactem Café",
+    "coordinates": {
+      "lat": 48.87567300000001,
+      "lng": 2.3406827
+    }
+  },
+  {
+    "address": "30 Rue Chapon, 75003 Paris, France",
+    "deal": "-50% sur ton Bubble Tea ! Uniquement la sélection des TRIO",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Ma+ch",
+    "coordinates": {
+      "lat": 48.8637417,
+      "lng": 2.355254
+    }
+  },
+  {
+    "address": "99 Rue Oberkampf, 75011 Paris, France",
+    "deal": "-50% sur les best burgers!",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Goiko",
+    "coordinates": {
+      "lat": 48.8656895,
+      "lng": 2.3763111
+    }
+  },
+  {
+    "address": "48 Rue Notre Dame de Lorette, 75009 Paris, France",
+    "deal": "1 pizza achetée = 1 Margherita offerte",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Magnà",
+    "coordinates": {
+      "lat": 48.879679,
+      "lng": 2.3361567
+    }
+  },
+  {
+    "address": "52 Rue Greneta, 75002 Paris, France",
+    "deal": "-50% sur le pairing sucré (Cocktail + Dessert)",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Ivy Cocktail Bar",
+    "coordinates": {
+      "lat": 48.8656136,
+      "lng": 2.3481628
+    }
+  },
+  {
+    "address": "174 Bd Voltaire, 75011 Paris, France",
+    "deal": "1 menu twist sucré acheté = 1 offert",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Break Moment",
+    "coordinates": {
+      "lat": 48.8551809,
+      "lng": 2.3841776
+    }
+  },
+  {
+    "address": "16 Rue Daval, 75011 Paris, France",
+    "deal": "-50% sur le BIG BANG BAO ou LE BENTO DAK CHICKEN ⚠️Uniquement à emporter",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Super Bao",
+    "coordinates": {
+      "lat": 48.854692,
+      "lng": 2.3708795
+    }
+  },
+  {
+    "address": "79 Rue de Belleville, 75019 Paris, France",
+    "deal": "Un kebab Classique poulet acheté = un offert",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Basis Kebab",
+    "coordinates": {
+      "lat": 48.87378169999999,
+      "lng": 2.3838306
+    }
+  },
+  {
+    "address": "9 Rue de Lancry, 75010 Paris, France",
+    "deal": "1 menu acheté = 1 frites OU 1 side offert",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Les Tontons Veg",
+    "coordinates": {
+      "lat": 48.8693054,
+      "lng": 2.3601554
+    }
+  },
+  {
+    "address": "29 Av. de la Prte de Choisy, 75013 Paris, France",
+    "deal": "- 50% sur les bibimbap",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Bibimhouse 13",
+    "coordinates": {
+      "lat": 48.81922429999999,
+      "lng": 2.3651132
+    }
+  },
+  {
+    "address": "5 Av. Trudaine, 75009 Paris, France",
+    "deal": "Un butter chicken ou un palak paneer (végétarien) à -50%",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Ismaïl Restaurant",
+    "coordinates": {
+      "lat": 48.8816345,
+      "lng": 2.3459751
+    }
+  },
+  {
+    "address": "6 Pl. Sainte-Opportune, 75001 Paris, France",
+    "deal": "-50% sur le bao veggie",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Little Baobei",
+    "coordinates": {
+      "lat": 48.8595729,
+      "lng": 2.3474826
+    }
+  },
+  {
+    "address": "8 Rue Dombasle, 75015 Paris, France",
+    "deal": "-50% sur ton sandwich",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "The Smoked Meat",
+    "coordinates": {
+      "lat": 48.8364881,
+      "lng": 2.2963188
+    }
+  },
+  {
+    "address": "7 Pass. des Panoramas, 75002 Paris, France",
+    "deal": "-50% sur le burger burrata à emporter only!",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "One and One",
+    "coordinates": {
+      "lat": 48.87148,
+      "lng": 2.3421568
+    }
+  },
+  {
+    "address": "58 Rue Rambuteau, 75004 Paris, France",
+    "deal": "1 glace achetée = 1 offerte!",
+    "latitude": 0,
+    "longitude": 0,
+    "restaurant": "Glace Bachir",
+    "coordinates": {
+      "lat": 48.8617818,
+      "lng": 2.3515038
+    }
+  }
+]
